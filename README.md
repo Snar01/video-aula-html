@@ -13,3 +13,5 @@ Nesse repositório você encontra os *starter files* de um projeto construído c
 - Trabalhar com variáveis CSS
 - Media Queries
 
+# Imagem
+<a href="layout.png" alt="Logo">
