@@ -14,4 +14,4 @@ Nesse repositório você encontra os *starter files* de um projeto construído c
 - Media Queries
 
 # Imagem
-<a href="layout.png" alt="Logo">
+<img href="layout.png" alt="Logo" />
